@@ -1,6 +1,8 @@
-# Personal Website
+# Portfolio - Sreerag Sreenivasan
 
-This repo hosts Sreerag Sreenivasan's Personal Website through GitHub Pages. Please visit ```https://sragsree.github.io/ssreerag``` to view the website.
+This is GitHub Page Repository of Sreerag Sreenivasan's Portfolio.
+
+Please visit https://sragsree.github.io to view portfolio
 
 License
 ----
